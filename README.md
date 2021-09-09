@@ -12,8 +12,12 @@ The location scope for the project included Washington, New York city and Chicag
 The script solicits user input to return query results.
 
 ### Files used
-Include the files used
+1. washington.csv
+2. new_york_city.csv
+3. chicago.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+The data used for the project was provided by [Motivate](https://www.motivateco.com).
+
+The data was prepared, wrangled and cleaned by [Udacity](https://www.udacity.com).
 
