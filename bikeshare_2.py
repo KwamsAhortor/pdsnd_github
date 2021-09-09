@@ -264,7 +264,7 @@ def category_count_graph(df):
             print('Oops! It seems your input is incorrect. Please try again.\nSelect one of these {}'.format(categories))
             category = input('Select one of these categories\n{}'.format(categories)).title()
         pd.DataFrame(df[category].value_counts()).plot(kind='bar')
-        plt.title('Count of {}'.format(category))
+        plt.title('{} Frequency'.format(category))
         plt.xlabel('category')
         plt.ylabel('Count')
         plt.show()
