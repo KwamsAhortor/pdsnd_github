@@ -1,5 +1,5 @@
 # Exploring US Bikeshare Data
-This is a project to develop a python script that queries a user database to uncover bike share usage patterns for a bike share system provider in the United States. The project seek to compare the system usage between three large cities: Chicago, New York City, and Washington, DC.
+This is a project to develop a python script that queries a user database to uncover bike-share usage patterns for a bike share system provider in the United States. The project seeks to compare the system usage between three large cities: Chicago, New York City, and Washington, DC.
 
 ## Date created
 08/09/2021
@@ -8,9 +8,9 @@ This is a project to develop a python script that queries a user database to unc
 Bikeshare Data Analysis for Q1 and Q2 2017
 
 ## Description
-This project is to write a script that provides statistics and analytics information for the first and second quarter of 2017 for bicycle ride sharing company in the US.
+This project is to write a script that provides statistics and analytics information for the first and second quarter of 2017 for a bicycle ride sharing company in the US.
 
-The location scope for the project included Washington, New York city and Chicago. The time scope spans 01/01/2021 to 31/06/2021 and includes about 1,000,000 individual bike rides.
+The location scope for the project included Washington, New York city, and Chicago. The time scope spans 01/01/2021 to 31/06/2021 and includes about 1,000,000 individual bike rides.
 
 The script solicits user input to return query results.
 
@@ -50,6 +50,7 @@ User info
 - earliest, most recent, most common year of birth (only available for NYC and Chicago)
 
 Graphs
+
 Bar graphs of the frequency of the following demographics are available from input prompt.
 - Start Station
 - End Station
