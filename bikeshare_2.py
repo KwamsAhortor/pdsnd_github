@@ -285,8 +285,7 @@ def display_data(df):
         (float) start_time -- returns the 'time.time()' function starts running. Used calculate duration of code run.
         (str) view_data -- input 'yes' to return 5 rows of data (df), 'no' to break the loop and end the function.
 
-        while statement is used to reject or approve input.
-
+        while statement is used to reject or approve user input.
     """
     print('\n***View Individual Trip Data***\n')
     start_time = time.time()
